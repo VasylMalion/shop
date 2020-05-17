@@ -1,0 +1,10 @@
+.products {
+    & .products__map {
+        display: flex;
+        margin: 10px;
+    }
+}
+
+.products__item {
+    margin: 10px;
+}
